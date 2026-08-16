@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="InventorySystem.API/InventorySystem.API.csproj" />
+  <Project Path="InventorySystem.Core/InventorySystem.Core.csproj" />
+  <Project Path="InventorySystem.Desktop/InventorySystem.Desktop.csproj" />
+</Solution>
